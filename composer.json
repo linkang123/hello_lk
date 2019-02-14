@@ -1,0 +1,19 @@
+{
+    "name": "hello_lk/hello_lk",
+    "description": "this is my first package 3q",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "linknag123",
+            "email": "740074513@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "Hello_lk\\Start_lk\\": "src/Hello_lk/Start_lk"
+        }
+    }
+}
